@@ -1,0 +1,18 @@
+﻿生成启动时间为 2018/11/30 15:38:49。
+     1>项目“F:\GitHub\dataStructure\Tree\由遍历序列求二叉树\createBTreefromTraversalSequence\createBTreefromTraversalSequence\createBTreefromTraversalSequence.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\createBT.1D7C616C.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\GitHub\dataStructure\Tree\由遍历序列求二叉树\createBTreefromTraversalSequence\Debug\createBTreefromTraversalSequence.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"F:\GitHub\dataStructure\Tree\由遍历序列求二叉树\createBTreefromTraversalSequence\Debug\createBTreefromTraversalSequence.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\GitHub\dataStructure\Tree\由遍历序列求二叉树\createBTreefromTraversalSequence\Debug\createBTreefromTraversalSequence.lib" /MACHINE:X86 Debug\main.obj
+         createBTreefromTraversalSequence.vcxproj -> F:\GitHub\dataStructure\Tree\由遍历序列求二叉树\createBTreefromTraversalSequence\Debug\createBTreefromTraversalSequence.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\createBT.1D7C616C.tlog\unsuccessfulbuild”。
+         正在对“Debug\createBT.1D7C616C.tlog\createBTreefromTraversalSequence.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\GitHub\dataStructure\Tree\由遍历序列求二叉树\createBTreefromTraversalSequence\createBTreefromTraversalSequence\createBTreefromTraversalSequence.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:01.22
